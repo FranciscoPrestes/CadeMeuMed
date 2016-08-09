@@ -1,0 +1,67 @@
+﻿@model CadeMeuMedico.Models.Medicos
+
+@{ViewBag.Title = "Adicionar Médico";}
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+
+    <div class="panel panel-primary">
+        <div class="panel-heading">
+            <h3 class="panel-title">@ViewBag.Title</h3>
+        </div>
+        <div class="panel-body">
+            <div class="row">
+                <div class="col-md-3">
+                    @Html.LabelFor(model => model.CRM)
+                    @Html.TextBoxFor(model => model.CRM, new { @class = "form-control", @required = true, @autofocus = true })
+                </div>
+                <div class="col-md-3">
+                    @Html.LabelFor(model => model.Nome)
+                    @Html.TextBoxFor(model => model.Nome, new { @class = "form-control", @required = true })
+                </div>
+                <div class="col-md-3">
+                    <label for="Endereco">Endereço</label>
+                    @Html.TextBoxFor(model => model.Endereco, new { @class = "form-control", @required = true })
+                </div>
+                <div class="col-md-3">
+                    @Html.LabelFor(model => model.Bairro)
+                    @Html.TextBoxFor(model => model.Bairro, new { @class = "form-control", @required = true })
+                </div>
+            </div>
+            <div class="row top10">
+                <div class="col-md-3">
+                    @Html.LabelFor(model => model.Email)
+                    @Html.TextBoxFor(model => model.Email, new { @class = "form-control", @required = true })
+                </div>
+                
+                <div class="col-md-3">
+                    <label for="WebsiteBlog">Website/Blog</label>
+                    @Html.TextBoxFor(model => model.WebsiteBlog, new { @class = "form-control", @required = true })
+                </div>
+                <div class="col-md-3">
+                    <label for="IDCidade">Cidade</label>
+                    @Html.DropDownList("IDCidade", null, String.Empty, new { @class = "form-control", @required = true })
+                </div>
+                <div class="col-md-3">
+                    <label for="IDEspecialidade">Especialidade</label>
+                    @Html.DropDownList("IDEspecialidade", null, String.Empty, new { @class = "form-control", @required = true })
+                </div>
+            </div>
+            <div class="row top10">
+                <div class="col-md-3">                    
+                    @Html.EditorFor(model => model.AtendePorConvenio, new { @class = "form-control", @required = true })
+                    <label for="AtendePorConvenio">Atendimento via convênio ?</label>
+                </div>
+                <div class="col-md-3">
+                    @Html.EditorFor(model => model.TemClinica, new { @class = "form-control", @required = true })
+                    <label for="TemClinica">Possui clínica própria ?</label>
+                </div>
+            </div>
+            <hr />
+            <input type="submit" value="Salvar" class="btn btn-success" />
+            @Html.ActionLink("Voltar", "Index", new { }, new { @class = "btn btn-default" })
+        </div>
+    </div>
+}

@@ -1,0 +1,50 @@
+﻿@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Cade meu medico? - @ViewBag.Title</title>
+    <link href="@Url.Content("~/Content/bootstrap.min.css")" rel="stylesheet" />
+    <style>
+        body {
+            background-color: #ddd;
+        }
+
+        .form-signin {
+            margin: 0 auto;
+            max-width: 330px;
+            padding: 15px;
+            margin-top: 10%;
+        }
+
+        .top10 {
+            padding-top: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <form action="#" method="get" onsubmit="login(); return false;" class="form-signin">
+            <h2 class="form-signin-heading text-center">Autenticar</h2>
+            <hr />
+            <div class="row">
+                <label for="txtLogin">Usuário</label>
+                <input type="text" id="txtLogin" class="form-control input-lg" placeholder="Informe Seu Login" required autofocus>
+            </div>
+            <div class="row top10">
+                <label for="txtSenha">Senha</label>
+                <input type="password" id="txtSenha" class="form-control input-lg" placeholder="Informe Sua Senha" required>
+                <hr />
+            </div>
+            <div class="row">
+                <button class="btn btn-lg btn-block btn-primary" type="submit">Enviar</button>
+            </div>
+        </form>
+    </div>
+    <script src="@Url.Content("~/Scripts/jquery-3.1.0.min.js")"></script>
+    <script src="@Url.Content("~/Scripts/bootstrap.min.js")"></script>
+    <script src="@Url.Content("~/Scripts/App.js")"></script>
+</body>
+</html>

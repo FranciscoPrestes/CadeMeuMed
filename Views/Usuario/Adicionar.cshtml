@@ -1,0 +1,37 @@
+﻿@model CadeMeuMedico.Models.Usuarios
+
+@{ViewBag.Title = "Adicionar Usuário";}
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+    <div class="panel panel-primary">
+        <div class="panel-heading">
+            <h3 class="panel-title">@ViewBag.Title</h3>
+        </div>
+        <div class="panel-body">
+            <div class="row">
+                <div class="col-md-3">
+                    @Html.LabelFor(model => model.Nome)
+                    @Html.TextBoxFor(model => model.Nome, new { @class = "form-control", @required = true, @autofocus = true })
+                </div>
+                <div class="col-md-3">
+                    @Html.LabelFor(model => model.Login)
+                    @Html.TextBoxFor(model => model.Login, new { @class = "form-control", @required = true})
+                </div>
+                <div class="col-md-3">
+                    @Html.LabelFor(model => model.Senha)
+                    @Html.PasswordFor(model => model.Senha, new { @class = "form-control", @required = true })
+                </div>
+                <div class="col-md-3">
+                    @Html.LabelFor(model => model.Email)
+                    @Html.TextBoxFor(model => model.Email, new { @class = "form-control", @required = true })
+                </div>
+            </div>
+            <hr />
+            <input type="submit" value="Salvar" class="btn btn-success" />
+            @Html.ActionLink("Voltar", "Index", new { }, new { @class = "btn btn-default" })
+        </div>
+    </div>
+}

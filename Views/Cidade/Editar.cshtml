@@ -1,0 +1,26 @@
+﻿@model CadeMeuMedico.Models.Cidades
+
+@{ViewBag.Title = "Editar Cidade";}
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+    <div class="panel panel-primary">
+        <div class="panel-heading">
+            <h3 class="panel-title">@ViewBag.Title</h3>
+        </div>
+        <div class="panel-body">
+            <div class="row">
+                <div class="col-md-3">
+                    @Html.LabelFor(model => model.Nome)
+                    @Html.TextBoxFor(model => model.Nome, new { @class = "form-control", @required = true, @autofocus = true })
+                </div>
+            </div>
+            <hr />
+            @Html.HiddenFor(model => model.IDCidade)
+            <input type="submit" value="Salvar" class="btn btn-success" />
+            @Html.ActionLink("Voltar", "Index", new { }, new { @class = "btn btn-default" })
+        </div>
+    </div>
+}

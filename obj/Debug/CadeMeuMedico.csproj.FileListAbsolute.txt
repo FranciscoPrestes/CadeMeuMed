@@ -1,0 +1,146 @@
+c:\users\usuário\documents\visual studio 2013\Projects\CadeMeuMedico\CadeMeuMedico\bin\CadeMeuMedico.dll.config
+c:\users\usuário\documents\visual studio 2013\Projects\CadeMeuMedico\CadeMeuMedico\bin\CadeMeuMedico.dll
+c:\users\usuário\documents\visual studio 2013\Projects\CadeMeuMedico\CadeMeuMedico\bin\CadeMeuMedico.pdb
+c:\users\usuário\documents\visual studio 2013\Projects\CadeMeuMedico\CadeMeuMedico\bin\Microsoft.Web.Infrastructure.dll
+c:\users\usuário\documents\visual studio 2013\Projects\CadeMeuMedico\CadeMeuMedico\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+c:\users\usuário\documents\visual studio 2013\Projects\CadeMeuMedico\CadeMeuMedico\bin\Newtonsoft.Json.dll
+c:\users\usuário\documents\visual studio 2013\Projects\CadeMeuMedico\CadeMeuMedico\bin\System.Net.Http.Formatting.dll
+c:\users\usuário\documents\visual studio 2013\Projects\CadeMeuMedico\CadeMeuMedico\bin\System.Web.Helpers.dll
+c:\users\usuário\documents\visual studio 2013\Projects\CadeMeuMedico\CadeMeuMedico\bin\System.Web.Http.dll
+c:\users\usuário\documents\visual studio 2013\Projects\CadeMeuMedico\CadeMeuMedico\bin\System.Web.Http.WebHost.dll
+c:\users\usuário\documents\visual studio 2013\Projects\CadeMeuMedico\CadeMeuMedico\bin\System.Web.Mvc.dll
+c:\users\usuário\documents\visual studio 2013\Projects\CadeMeuMedico\CadeMeuMedico\bin\System.Web.Razor.dll
+c:\users\usuário\documents\visual studio 2013\Projects\CadeMeuMedico\CadeMeuMedico\bin\System.Web.WebPages.Deployment.dll
+c:\users\usuário\documents\visual studio 2013\Projects\CadeMeuMedico\CadeMeuMedico\bin\System.Web.WebPages.dll
+c:\users\usuário\documents\visual studio 2013\Projects\CadeMeuMedico\CadeMeuMedico\bin\System.Web.WebPages.Razor.dll
+c:\users\usuário\documents\visual studio 2013\Projects\CadeMeuMedico\CadeMeuMedico\bin\Newtonsoft.Json.xml
+c:\users\usuário\documents\visual studio 2013\Projects\CadeMeuMedico\CadeMeuMedico\bin\System.Net.Http.Formatting.xml
+c:\users\usuário\documents\visual studio 2013\Projects\CadeMeuMedico\CadeMeuMedico\bin\System.Web.Helpers.xml
+c:\users\usuário\documents\visual studio 2013\Projects\CadeMeuMedico\CadeMeuMedico\bin\System.Web.Http.xml
+c:\users\usuário\documents\visual studio 2013\Projects\CadeMeuMedico\CadeMeuMedico\bin\System.Web.Http.WebHost.xml
+c:\users\usuário\documents\visual studio 2013\Projects\CadeMeuMedico\CadeMeuMedico\bin\System.Web.Mvc.xml
+c:\users\usuário\documents\visual studio 2013\Projects\CadeMeuMedico\CadeMeuMedico\bin\System.Web.Razor.xml
+c:\users\usuário\documents\visual studio 2013\Projects\CadeMeuMedico\CadeMeuMedico\bin\System.Web.WebPages.xml
+c:\users\usuário\documents\visual studio 2013\Projects\CadeMeuMedico\CadeMeuMedico\bin\System.Web.WebPages.Deployment.xml
+c:\users\usuário\documents\visual studio 2013\Projects\CadeMeuMedico\CadeMeuMedico\bin\System.Web.WebPages.Razor.xml
+c:\users\usuário\documents\visual studio 2013\Projects\CadeMeuMedico\CadeMeuMedico\bin\pt-br\System.Net.Http.Formatting.resources.dll
+c:\users\usuário\documents\visual studio 2013\Projects\CadeMeuMedico\CadeMeuMedico\bin\pt-br\System.Web.Helpers.resources.dll
+c:\users\usuário\documents\visual studio 2013\Projects\CadeMeuMedico\CadeMeuMedico\bin\pt-br\System.Web.Http.resources.dll
+c:\users\usuário\documents\visual studio 2013\Projects\CadeMeuMedico\CadeMeuMedico\bin\pt-br\System.Web.Http.WebHost.resources.dll
+c:\users\usuário\documents\visual studio 2013\Projects\CadeMeuMedico\CadeMeuMedico\bin\pt-br\System.Web.Mvc.resources.dll
+c:\users\usuário\documents\visual studio 2013\Projects\CadeMeuMedico\CadeMeuMedico\bin\pt-br\System.Web.Razor.resources.dll
+c:\users\usuário\documents\visual studio 2013\Projects\CadeMeuMedico\CadeMeuMedico\bin\pt-br\System.Web.WebPages.resources.dll
+c:\users\usuário\documents\visual studio 2013\Projects\CadeMeuMedico\CadeMeuMedico\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+c:\users\usuário\documents\visual studio 2013\Projects\CadeMeuMedico\CadeMeuMedico\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+c:\users\usuário\documents\visual studio 2013\Projects\CadeMeuMedico\CadeMeuMedico\obj\Debug\CadeMeuMedico.dll
+c:\users\usuário\documents\visual studio 2013\Projects\CadeMeuMedico\CadeMeuMedico\obj\Debug\CadeMeuMedico.pdb
+C:\Users\Usuário\Documents\Visual Studio 2013\Projects\CadeMeuMedico\CadeMeuMedico\bin\EntityFramework.dll
+C:\Users\Usuário\Documents\Visual Studio 2013\Projects\CadeMeuMedico\CadeMeuMedico\bin\EntityFramework.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\CadeMeuMedico\CadeMeuMedico\bin\CadeMeuMedico.dll.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\CadeMeuMedico\CadeMeuMedico\bin\CadeMeuMedico.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\CadeMeuMedico\CadeMeuMedico\bin\CadeMeuMedico.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\CadeMeuMedico\CadeMeuMedico\bin\EntityFramework.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\CadeMeuMedico\CadeMeuMedico\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\CadeMeuMedico\CadeMeuMedico\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\CadeMeuMedico\CadeMeuMedico\bin\Newtonsoft.Json.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\CadeMeuMedico\CadeMeuMedico\bin\System.Net.Http.Formatting.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\CadeMeuMedico\CadeMeuMedico\bin\System.Web.Helpers.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\CadeMeuMedico\CadeMeuMedico\bin\System.Web.Http.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\CadeMeuMedico\CadeMeuMedico\bin\System.Web.Http.WebHost.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\CadeMeuMedico\CadeMeuMedico\bin\System.Web.Mvc.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\CadeMeuMedico\CadeMeuMedico\bin\System.Web.Razor.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\CadeMeuMedico\CadeMeuMedico\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\CadeMeuMedico\CadeMeuMedico\bin\System.Web.WebPages.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\CadeMeuMedico\CadeMeuMedico\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\CadeMeuMedico\CadeMeuMedico\bin\EntityFramework.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\CadeMeuMedico\CadeMeuMedico\bin\Newtonsoft.Json.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\CadeMeuMedico\CadeMeuMedico\bin\System.Net.Http.Formatting.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\CadeMeuMedico\CadeMeuMedico\bin\System.Web.Helpers.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\CadeMeuMedico\CadeMeuMedico\bin\System.Web.Http.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\CadeMeuMedico\CadeMeuMedico\bin\System.Web.Http.WebHost.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\CadeMeuMedico\CadeMeuMedico\bin\System.Web.Mvc.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\CadeMeuMedico\CadeMeuMedico\bin\System.Web.Razor.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\CadeMeuMedico\CadeMeuMedico\bin\System.Web.WebPages.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\CadeMeuMedico\CadeMeuMedico\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\CadeMeuMedico\CadeMeuMedico\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\CadeMeuMedico\CadeMeuMedico\bin\pt-br\System.Net.Http.Formatting.resources.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\CadeMeuMedico\CadeMeuMedico\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\CadeMeuMedico\CadeMeuMedico\bin\pt-br\System.Web.Http.resources.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\CadeMeuMedico\CadeMeuMedico\bin\pt-br\System.Web.Http.WebHost.resources.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\CadeMeuMedico\CadeMeuMedico\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\CadeMeuMedico\CadeMeuMedico\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\CadeMeuMedico\CadeMeuMedico\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\CadeMeuMedico\CadeMeuMedico\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\CadeMeuMedico\CadeMeuMedico\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\CadeMeuMedico\CadeMeuMedico\obj\Debug\CadeMeuMedico.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\CadeMeuMedico\CadeMeuMedico\obj\Debug\CadeMeuMedico.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\CadeMeuMedico\CadeMeuMedico\obj\Debug\CadeMeuMedico.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\CadeMeuMedico\CadeMeuMedico\bin\CadeMeuMedico.dll.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\CadeMeuMedico\CadeMeuMedico\bin\CadeMeuMedico.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\CadeMeuMedico\CadeMeuMedico\bin\CadeMeuMedico.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\CadeMeuMedico\CadeMeuMedico\bin\EntityFramework.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\CadeMeuMedico\CadeMeuMedico\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\CadeMeuMedico\CadeMeuMedico\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\CadeMeuMedico\CadeMeuMedico\bin\Newtonsoft.Json.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\CadeMeuMedico\CadeMeuMedico\bin\System.Net.Http.Formatting.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\CadeMeuMedico\CadeMeuMedico\bin\System.Web.Helpers.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\CadeMeuMedico\CadeMeuMedico\bin\System.Web.Http.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\CadeMeuMedico\CadeMeuMedico\bin\System.Web.Http.WebHost.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\CadeMeuMedico\CadeMeuMedico\bin\System.Web.Mvc.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\CadeMeuMedico\CadeMeuMedico\bin\System.Web.Razor.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\CadeMeuMedico\CadeMeuMedico\bin\System.Web.WebPages.Deployment.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\CadeMeuMedico\CadeMeuMedico\bin\System.Web.WebPages.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\CadeMeuMedico\CadeMeuMedico\bin\System.Web.WebPages.Razor.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\CadeMeuMedico\CadeMeuMedico\bin\EntityFramework.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\CadeMeuMedico\CadeMeuMedico\bin\Newtonsoft.Json.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\CadeMeuMedico\CadeMeuMedico\bin\System.Net.Http.Formatting.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\CadeMeuMedico\CadeMeuMedico\bin\System.Web.Helpers.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\CadeMeuMedico\CadeMeuMedico\bin\System.Web.Http.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\CadeMeuMedico\CadeMeuMedico\bin\System.Web.Http.WebHost.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\CadeMeuMedico\CadeMeuMedico\bin\System.Web.Mvc.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\CadeMeuMedico\CadeMeuMedico\bin\System.Web.Razor.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\CadeMeuMedico\CadeMeuMedico\bin\System.Web.WebPages.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\CadeMeuMedico\CadeMeuMedico\bin\System.Web.WebPages.Deployment.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\CadeMeuMedico\CadeMeuMedico\bin\System.Web.WebPages.Razor.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\CadeMeuMedico\CadeMeuMedico\bin\pt-br\System.Net.Http.Formatting.resources.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\CadeMeuMedico\CadeMeuMedico\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\CadeMeuMedico\CadeMeuMedico\bin\pt-br\System.Web.Http.resources.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\CadeMeuMedico\CadeMeuMedico\bin\pt-br\System.Web.Http.WebHost.resources.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\CadeMeuMedico\CadeMeuMedico\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\CadeMeuMedico\CadeMeuMedico\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\CadeMeuMedico\CadeMeuMedico\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\CadeMeuMedico\CadeMeuMedico\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\CadeMeuMedico\CadeMeuMedico\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\CadeMeuMedico\CadeMeuMedico\obj\Debug\CadeMeuMedico.dll
+C:\Users\User\Documents\Visual Studio 2013\Projects\CadeMeuMedico\CadeMeuMedico\obj\Debug\CadeMeuMedico.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\CadeMeuMedico\CadeMeuMedico\obj\Debug\CadeMeuMedico.csprojResolveAssemblyReference.cache
+C:\Working\CadeMeuMedico-master\CadeMeuMedico\bin\CadeMeuMedico.dll.config
+C:\Working\CadeMeuMedico-master\CadeMeuMedico\bin\CadeMeuMedico.dll
+C:\Working\CadeMeuMedico-master\CadeMeuMedico\bin\CadeMeuMedico.pdb
+C:\Working\CadeMeuMedico-master\CadeMeuMedico\bin\EntityFramework.dll
+C:\Working\CadeMeuMedico-master\CadeMeuMedico\bin\Microsoft.Web.Infrastructure.dll
+C:\Working\CadeMeuMedico-master\CadeMeuMedico\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Working\CadeMeuMedico-master\CadeMeuMedico\bin\Newtonsoft.Json.dll
+C:\Working\CadeMeuMedico-master\CadeMeuMedico\bin\System.Web.Helpers.dll
+C:\Working\CadeMeuMedico-master\CadeMeuMedico\bin\System.Web.Mvc.dll
+C:\Working\CadeMeuMedico-master\CadeMeuMedico\bin\System.Web.Razor.dll
+C:\Working\CadeMeuMedico-master\CadeMeuMedico\bin\System.Web.WebPages.Deployment.dll
+C:\Working\CadeMeuMedico-master\CadeMeuMedico\bin\System.Web.WebPages.dll
+C:\Working\CadeMeuMedico-master\CadeMeuMedico\bin\System.Web.WebPages.Razor.dll
+C:\Working\CadeMeuMedico-master\CadeMeuMedico\bin\EntityFramework.xml
+C:\Working\CadeMeuMedico-master\CadeMeuMedico\bin\Newtonsoft.Json.xml
+C:\Working\CadeMeuMedico-master\CadeMeuMedico\bin\System.Web.Helpers.xml
+C:\Working\CadeMeuMedico-master\CadeMeuMedico\bin\System.Web.Mvc.xml
+C:\Working\CadeMeuMedico-master\CadeMeuMedico\bin\System.Web.Razor.xml
+C:\Working\CadeMeuMedico-master\CadeMeuMedico\bin\System.Web.WebPages.xml
+C:\Working\CadeMeuMedico-master\CadeMeuMedico\bin\System.Web.WebPages.Deployment.xml
+C:\Working\CadeMeuMedico-master\CadeMeuMedico\bin\System.Web.WebPages.Razor.xml
+C:\Working\CadeMeuMedico-master\CadeMeuMedico\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Working\CadeMeuMedico-master\CadeMeuMedico\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Working\CadeMeuMedico-master\CadeMeuMedico\bin\pt-br\System.Web.Razor.resources.dll
+C:\Working\CadeMeuMedico-master\CadeMeuMedico\bin\pt-br\System.Web.WebPages.resources.dll
+C:\Working\CadeMeuMedico-master\CadeMeuMedico\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
+C:\Working\CadeMeuMedico-master\CadeMeuMedico\bin\pt-br\System.Web.WebPages.Razor.resources.dll
+C:\Working\CadeMeuMedico-master\CadeMeuMedico\obj\Debug\CadeMeuMedico.csprojResolveAssemblyReference.cache
+C:\Working\CadeMeuMedico-master\CadeMeuMedico\obj\Debug\CadeMeuMedico.dll
+C:\Working\CadeMeuMedico-master\CadeMeuMedico\obj\Debug\CadeMeuMedico.pdb
